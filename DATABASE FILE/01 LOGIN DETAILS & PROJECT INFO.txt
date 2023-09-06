@@ -1,0 +1,7 @@
+**Database Name: vehiclebookings**
+
+**Admin Login Details**
+
+Email	: admin@mail.com
+Password: 9876
+
